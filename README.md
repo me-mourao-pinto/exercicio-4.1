@@ -8,6 +8,8 @@ Estrutura
 app/main.py — implementação da API
 requirements.txt — dependências (fastapi, uvicorn)
 .autograde-exercise — marcador do autograder (conteúdo: 4.1)
+PR feito para validar autograde
+
 Como rodar
 pip install -r requirements.txt
 uvicorn app.main:app --port 8000
